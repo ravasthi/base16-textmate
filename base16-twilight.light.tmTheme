@@ -4,25 +4,25 @@
 <dict>
 	<key>author</key>
 	<string>David Hart (http://hart-dev.com)</string>
-	<key>name</key>
-	<string>Base16 Twilight Light</string>
-	<key>semanticClass</key>
-	<string>base16.twilight.light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#ffffff</string>
+		<string>#f0f0f0</string>
 		<key>divider</key>
-		<string>#ffffff</string>
+		<string>#e8e8e8</string>
 		<key>foreground</key>
-		<string>#464b50</string>
+		<string>#464b5080</string>
 		<key>selectionBackground</key>
 		<string>#ffffff</string>
 		<key>selectionForeground</key>
 		<string>#a7a7a7</string>
 	</dict>
+	<key>name</key>
+	<string>Base16 Twilight Light</string>
+	<key>semanticClass</key>
+	<string>base16.twilight.light</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -242,6 +242,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Color</string>
+			<key>scope</key>
+			<string>support.constant.color</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#838184</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Tags</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
@@ -286,13 +297,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Values</string>
+			<string>Property name</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>meta.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cda869</string>
+				<string>#7587a6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Property value</string>
+			<key>scope</key>
+			<string>support.constant.property-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9b859d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +338,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cda869</string>
+				<string>#9b703f</string>
 			</dict>
 		</dict>
 		<dict>
