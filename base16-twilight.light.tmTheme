@@ -39,7 +39,7 @@
 				<key>lineHighlight</key>
 				<string>#83818455</string>
 				<key>selection</key>
-				<string>#c3c3c3</string>
+				<string>#c3c3c3a0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -266,11 +266,11 @@
 			<key>name</key>
 			<string>Attributes</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name</string>
+			<string>entity.other.attribute-name, entity.name.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cda869</string>
+				<string>#a7a7a7</string>
 			</dict>
 		</dict>
 		<dict>
