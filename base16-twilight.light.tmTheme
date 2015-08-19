@@ -35,7 +35,7 @@
 				<key>foreground</key>
 				<string>#464b50</string>
 				<key>invisibles</key>
-				<string>#c3c3c3</string>
+				<string>#c3c3c3a0</string>
 				<key>lineHighlight</key>
 				<string>#83818455</string>
 				<key>selection</key>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#838184</string>
+				<string>#c3c3c3</string>
 			</dict>
 		</dict>
 		<dict>
