@@ -286,13 +286,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Property Names</string>
+			<key>scope</key>
+			<string>support.type.property-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#838184</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Property Values</string>
 			<key>scope</key>
 			<string>support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a7a7a7</string>
+				<string>#9b859d</string>
 			</dict>
 		</dict>
 		<dict>
