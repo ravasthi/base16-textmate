@@ -4,10 +4,6 @@
 <dict>
 	<key>author</key>
 	<string>Chris Kempson (http://chriskempson.com)</string>
-	<key>name</key>
-	<string>Base16 Flat Dark</string>
-	<key>semanticClass</key>
-	<string>base16.flat.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -23,6 +19,10 @@
 		<key>selectionForeground</key>
 		<string>#BDC3C7</string>
 	</dict>
+	<key>name</key>
+	<string>Base16 Flat Dark</string>
+	<key>semanticClass</key>
+	<string>base16.flat.dark</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -35,22 +35,22 @@
 				<key>foreground</key>
 				<string>#e0e0e0</string>
 				<key>invisibles</key>
-				<string>#95A5A6</string>
+				<string>#95A5A680</string>
 				<key>lineHighlight</key>
 				<string>#95A5A655</string>
 				<key>selection</key>
-				<string>#7F8C8D</string>
+				<string>#7F8C8D60</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Text</string>
+			<string>Parameter </string>
 			<key>scope</key>
 			<string>variable.parameter.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e0e0e0</string>
+				<string>#f1c40f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#95A5A6</string>
+				<string>#7f8c8d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -264,9 +264,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Attribute classes</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class, entity.name.tag.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#be643c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Attribute IDs</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.id, punctuation.definition.entity</string>
+			<string>entity.other.attribute-name.id, punctuation.definition.entity, entity.name.tag.id</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -286,13 +297,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Values</string>
+			<string>Property names</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>support.constant.property-name, meta.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E67E22</string>
+				<string>#bdc3c7</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Property values</string>
+			<key>scope</key>
+			<string>support.constant.property-value, support.constant.font-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f1c40f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +338,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E67E22</string>
+				<string>#95a5a6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -360,7 +382,7 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-      <string>string.other.link, punctuation.definition.string.end.markdown</string>
+			<string>string.other.link, punctuation.definition.string.end.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
