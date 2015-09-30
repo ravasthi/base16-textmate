@@ -4,25 +4,25 @@
 <dict>
 	<key>author</key>
 	<string>Chris Kempson (http://chriskempson.com)</string>
-	<key>name</key>
-	<string>Base16 Default Light</string>
-	<key>semanticClass</key>
-	<string>base16.default.light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#f8f8f8</string>
+		<string>#e0e0e0</string>
 		<key>divider</key>
 		<string>#f8f8f8</string>
 		<key>foreground</key>
-		<string>#383838</string>
+		<string>#808080</string>
 		<key>selectionBackground</key>
 		<string>#f8f8f8</string>
 		<key>selectionForeground</key>
-		<string>#d8d8d8</string>
+		<string>#d0d0d0</string>
 	</dict>
+	<key>name</key>
+	<string>Base16 Default Light</string>
+	<key>semanticClass</key>
+	<string>base16.default.light</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -39,18 +39,18 @@
 				<key>lineHighlight</key>
 				<string>#b8b8b855</string>
 				<key>selection</key>
-				<string>#e8e8e8</string>
+				<string>#e8e8e880</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Text</string>
+			<string>Function parameter</string>
 			<key>scope</key>
 			<string>variable.parameter.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#383838</string>
+				<string>#808080</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#383838</string>
+				<string>#b0b0b0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -275,6 +275,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Attribute classes</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#aa759f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Selector</string>
 			<key>scope</key>
 			<string>meta.selector</string>
@@ -286,13 +297,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Values</string>
+			<string>Property names</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>support.type.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#dc9656</string>
+				<string>#b0b0b0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Property values</string>
+			<key>scope</key>
+			<string>support.constant.property-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6a9fb5</string>
 			</dict>
 		</dict>
 		<dict>
