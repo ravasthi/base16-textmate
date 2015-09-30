@@ -461,7 +461,7 @@
 			<key>name</key>
 			<string>Colors</string>
 			<key>scope</key>
-			<string>constant.other.color</string>
+			<string>constant.other.color, support.constant.color</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
