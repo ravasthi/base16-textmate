@@ -9,15 +9,15 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#e0e0e0</string>
+		<string>#d0d0d0</string>
 		<key>divider</key>
 		<string>#f8f8f8</string>
 		<key>foreground</key>
 		<string>#808080</string>
 		<key>selectionBackground</key>
-		<string>#f8f8f8</string>
+		<string>#e8e8e880</string>
 		<key>selectionForeground</key>
-		<string>#d0d0d0</string>
+		<string>#a0a0a0</string>
 	</dict>
 	<key>name</key>
 	<string>Base16 Default Light</string>
@@ -35,7 +35,7 @@
 				<key>foreground</key>
 				<string>#383838</string>
 				<key>invisibles</key>
-				<string>#e8e8e8</string>
+				<string>#e0e0e080</string>
 				<key>lineHighlight</key>
 				<string>#b8b8b855</string>
 				<key>selection</key>
