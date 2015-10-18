@@ -4,10 +4,6 @@
 <dict>
 	<key>author</key>
 	<string>Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool)</string>
-	<key>name</key>
-	<string>Base16 Atelier Sulphurpool Dark</string>
-	<key>semanticClass</key>
-	<string>base16.ateliersulphurpool.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -21,8 +17,12 @@
 		<key>selectionBackground</key>
 		<string>#5e6687</string>
 		<key>selectionForeground</key>
-		<string>#898ea4</string>
+		<string>#757a8c</string>
 	</dict>
+	<key>name</key>
+	<string>Base16 Atelier Sulphurpool Dark</string>
+	<key>semanticClass</key>
+	<string>base16.ateliersulphurpool.dark</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -360,7 +360,7 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-      <string>string.other.link, punctuation.definition.string.end.markdown</string>
+			<string>string.other.link, punctuation.definition.string.end.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
