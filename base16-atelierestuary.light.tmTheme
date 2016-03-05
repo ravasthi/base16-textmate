@@ -23,10 +23,6 @@
 		<key>selectionForeground</key>
 		<string>#929181</string>
 	</dict>
-	<key>name</key>
-	<string>Base16 Atelier Estuary Light</string>
-	<key>semanticClass</key>
-	<string>base16.atelierestuary.light</string>
 	<key>settings</key>
 	<array>
 		<dict>

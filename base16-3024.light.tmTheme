@@ -23,10 +23,6 @@
 		<key>selectionForeground</key>
 		<string>#a5a2a2</string>
 	</dict>
-	<key>name</key>
-	<string>Base16 3024 Light</string>
-	<key>semanticClass</key>
-	<string>base16.3024.light</string>
 	<key>settings</key>
 	<array>
 		<dict>
