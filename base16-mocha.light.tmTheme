@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Mocha Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.mocha</string>
+	<string>theme.light.base16.mocha</string>
 	<key>settings</key>
 	<array>
 		<dict>

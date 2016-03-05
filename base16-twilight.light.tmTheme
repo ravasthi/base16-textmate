@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Twilight Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.twilight</string>
+	<string>theme.light.base16.twilight</string>
 	<key>settings</key>
 	<array>
 		<dict>

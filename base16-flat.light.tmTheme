@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Flat Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.flat</string>
+	<string>theme.light.base16.flat</string>
 	<key>settings</key>
 	<array>
 		<dict>

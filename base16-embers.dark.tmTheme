@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Embers Dark</string>
 	<key>semanticClass</key>
-	<string>base16.dark.embers</string>
+	<string>theme.dark.base16.embers</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

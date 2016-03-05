@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Green Screen Dark</string>
 	<key>semanticClass</key>
-	<string>base16.dark.greenscreen</string>
+	<string>theme.dark.base16.greenscreen</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Solarized Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.solarized</string>
+	<string>theme.light.base16.solarized</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

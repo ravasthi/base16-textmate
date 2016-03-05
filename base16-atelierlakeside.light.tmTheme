@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Lakeside Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.atelierlakeside</string>
+	<string>theme.light.base16.atelierlakeside</string>
 	<key>settings</key>
 	<array>
 		<dict>

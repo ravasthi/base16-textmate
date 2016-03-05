@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Green Screen Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.greenscreen</string>
+	<string>theme.light.base16.greenscreen</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

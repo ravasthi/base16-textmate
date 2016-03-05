@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Paraiso Dark</string>
 	<key>semanticClass</key>
-	<string>base16.dark.paraiso</string>
+	<string>theme.dark.base16.paraiso</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

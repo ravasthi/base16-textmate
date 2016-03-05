@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Paraiso Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.paraiso</string>
+	<string>theme.light.base16.paraiso</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

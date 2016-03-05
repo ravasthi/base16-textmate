@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Bespin Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.bespin</string>
+	<string>theme.light.base16.bespin</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Forest Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.atelierforest</string>
+	<string>theme.light.base16.atelierforest</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

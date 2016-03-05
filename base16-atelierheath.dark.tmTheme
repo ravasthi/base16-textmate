@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Heath Dark</string>
 	<key>semanticClass</key>
-	<string>base16.dark.atelierheath</string>
+	<string>theme.dark.base16.atelierheath</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

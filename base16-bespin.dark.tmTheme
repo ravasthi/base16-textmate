@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Bespin Dark</string>
 	<key>semanticClass</key>
-	<string>base16.dark.bespin</string>
+	<string>theme.dark.base16.bespin</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

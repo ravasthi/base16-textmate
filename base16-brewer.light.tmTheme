@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Brewer Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.brewer</string>
+	<string>theme.light.base16.brewer</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Google Dark</string>
 	<key>semanticClass</key>
-	<string>base16.dark.google</string>
+	<string>theme.dark.base16.google</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

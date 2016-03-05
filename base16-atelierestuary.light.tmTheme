@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Estuary Light</string>
 	<key>semanticClass</key>
-	<string>base16.light.atelierestuary</string>
+	<string>theme.light.base16.atelierestuary</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
