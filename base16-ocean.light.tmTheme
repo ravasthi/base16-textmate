@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Ocean Light</string>
 	<key>semanticClass</key>
-	<string>base16.ocean.light</string>
+	<string>base16.light.ocean</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

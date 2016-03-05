@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Eighties Light</string>
 	<key>semanticClass</key>
-	<string>base16.eighties.light</string>
+	<string>base16.light.eighties</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

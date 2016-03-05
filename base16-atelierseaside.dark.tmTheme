@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Seaside Dark</string>
 	<key>semanticClass</key>
-	<string>base16.atelierseaside.dark</string>
+	<string>base16.dark.atelierseaside</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

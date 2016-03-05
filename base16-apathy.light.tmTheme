@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Apathy Light</string>
 	<key>semanticClass</key>
-	<string>base16.apathy.light</string>
+	<string>base16.light.apathy</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

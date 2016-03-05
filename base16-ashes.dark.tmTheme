@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Ashes Dark</string>
 	<key>semanticClass</key>
-	<string>base16.ashes.dark</string>
+	<string>base16.dark.ashes</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

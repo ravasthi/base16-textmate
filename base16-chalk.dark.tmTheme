@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Chalk Dark</string>
 	<key>semanticClass</key>
-	<string>base16.chalk.dark</string>
+	<string>base16.dark.chalk</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

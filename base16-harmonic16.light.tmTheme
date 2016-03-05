@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 harmonic16 Light</string>
 	<key>semanticClass</key>
-	<string>base16.harmonic16.light</string>
+	<string>base16.light.harmonic16</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Summerfruit Light</string>
 	<key>semanticClass</key>
-	<string>base16.summerfruit.light</string>
+	<string>base16.light.summerfruit</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

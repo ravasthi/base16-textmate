@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 London Tube Light</string>
 	<key>semanticClass</key>
-	<string>base16.londontube.light</string>
+	<string>base16.light.londontube</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

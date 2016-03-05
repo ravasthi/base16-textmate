@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Codeschool Light</string>
 	<key>semanticClass</key>
-	<string>base16.codeschool.light</string>
+	<string>base16.light.codeschool</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Grayscale Dark</string>
 	<key>semanticClass</key>
-	<string>base16.grayscale.dark</string>
+	<string>base16.dark.grayscale</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

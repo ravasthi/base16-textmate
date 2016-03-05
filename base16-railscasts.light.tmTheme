@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Railscasts Light</string>
 	<key>semanticClass</key>
-	<string>base16.railscasts.light</string>
+	<string>base16.light.railscasts</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

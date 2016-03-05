@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Pop Light</string>
 	<key>semanticClass</key>
-	<string>base16.pop.light</string>
+	<string>base16.light.pop</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>

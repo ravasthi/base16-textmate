@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Default Dark</string>
 	<key>semanticClass</key>
-	<string>base16.default.dark</string>
+	<string>base16.dark.default</string>
 	<key>settings</key>
 	<array>
 		<dict>

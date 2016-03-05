@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Google Light</string>
 	<key>semanticClass</key>
-	<string>base16.google.light</string>
+	<string>base16.light.google</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

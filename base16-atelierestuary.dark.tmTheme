@@ -22,7 +22,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Estuary Dark</string>
 	<key>semanticClass</key>
-	<string>base16.atelierestuary.dark</string>
+	<string>base16.dark.atelierestuary</string>
 	<key>settings</key>
 	<array>
 		<dict>

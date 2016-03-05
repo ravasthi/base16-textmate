@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Dune Light</string>
 	<key>semanticClass</key>
-	<string>base16.atelierdune.light</string>
+	<string>base16.light.atelierdune</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
