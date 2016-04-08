@@ -4,10 +4,6 @@
 <dict>
 	<key>author</key>
 	<string>Jan T. Sott (http://github.com/idleberg)</string>
-	<key>name</key>
-	<string>Base16 3024 Light</string>
-	<key>semanticClass</key>
-	<string>theme.light.base16.3024</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -23,6 +19,10 @@
 		<key>selectionForeground</key>
 		<string>#a5a2a2</string>
 	</dict>
+	<key>name</key>
+	<string>Base16 3024 Light</string>
+	<key>semanticClass</key>
+	<string>theme.light.base16.3024</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -123,7 +123,7 @@
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, meta.require, support.function.any-method</string>
+			<string>entity.name.function, meta.require, support.function.any-method, entity.name.method</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
