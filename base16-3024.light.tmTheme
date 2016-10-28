@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4a4543</string>
+				<string>#8b898f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -134,11 +134,11 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>support.class, entity.name.class, entity.name.type.class</string>
+			<string>support.class, entity.name.class, entity.name.type.class, variable.other.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e8bbd0</string>
+				<string>#dd8d23</string>
 			</dict>
 		</dict>
 		<dict>
@@ -248,7 +248,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#db2d20</string>
+				<string>#dd8d23</string>
 			</dict>
 		</dict>
 		<dict>
