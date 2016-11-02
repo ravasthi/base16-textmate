@@ -121,6 +121,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Language-specific variables</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e89983</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
 			<string>entity.name.function, entity.name.method, meta.require, support.function.any-method</string>
@@ -134,7 +145,7 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>support.class, entity.name.class, entity.name.type.class</string>
+			<string>support.class, entity.name.class, variable.other.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
